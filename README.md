@@ -1,1 +1,3 @@
-# more_javascript_examples
+# JS Examples
+
+Need node to run on your machine with console.log
